@@ -1,0 +1,39 @@
+body {
+    text-align: center;
+    background-color:aquamarine;
+}
+
+div {
+    margin-top: 15px;
+
+}
+
+.image section {
+    display: flex;
+    justify-content: center;
+}
+
+.section style {
+    margin-right: 25px;
+    margin-left: 25px;
+
+
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    width: 800px;
+    height: 500px;
+}
+  .text {
+    float: left;
+    color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    font-family: fantasy;
+    font-size: 20px;
