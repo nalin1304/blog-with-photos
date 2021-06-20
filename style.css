@@ -2,35 +2,34 @@ body {
     text-align: center;
     background-color:aquamarine;
 }
-
-div {
-    margin-top: 15px;
-
+div{
+  margin-top:   15px ;
 }
-
-.image section {
+.image-section {
     display: flex;
     justify-content: center;
+
 }
-
-.section style {
-    margin-right: 25px;
-    margin-left: 25px;
-
-
+.section-style{
+     margin-right: 25px;
+    margin-left: 25px;` 
+    width: 600px ;
+        
+}
 }
 
 h1 {
     text-align: center;
+    width: 200px ;
 }
 
 img {
-    width: 800px;
+    width: 500px;
     height: 500px;
 }
   .text {
-    float: left;
-    color: white;
+
+    color: Black ;
     padding-top: 5px;
     padding-bottom: 5px;
     padding-left: 9px;
